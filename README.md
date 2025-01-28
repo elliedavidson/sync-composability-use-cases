@@ -7,4 +7,4 @@ Use cases for / benefits from synchronous composability
 4. Aggregated, instant access to liquidity from any synchronously composable chain
 5. No latency, exact fee cross-chain swaps - [@lvdaniels](https://x.com/lvdaniels/status/1882545106861039997)
 6. Cross-chain fees that do not scale with the amount capital moved - [@knwang](https://x.com/knwang/status/1882575554282471893)
-7. 
+7. Easily get one time use addresses by sync messaging with a privacy chain - [@0xRahul](https://x.com/omw_to_the_moon)
